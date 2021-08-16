@@ -1,0 +1,16 @@
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3._0.Form1.resources
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.vbproj.GenerateResource.cache
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.AssemblyInfoInputs.cache
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.AssemblyInfo.vb
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.vbproj.CoreCompileInputs.cache
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.exe
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.deps.json
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.runtimeconfig.json
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.runtimeconfig.dev.json
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.dll
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\bin\Debug\netcoreapp3.1\Tarea3.0.pdb
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.dll
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.pdb
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.genruntimeconfig.cache
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3.0.vbproj.AssemblyReference.cache
+C:\Users\dguer\OneDrive\Documentos\Clases\Progra 2\Tarea3.0\Tarea3.0\obj\Debug\netcoreapp3.1\Tarea3._0.Form2.resources

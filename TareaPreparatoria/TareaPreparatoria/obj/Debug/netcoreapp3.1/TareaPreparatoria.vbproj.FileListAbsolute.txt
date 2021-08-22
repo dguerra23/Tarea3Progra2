@@ -13,3 +13,4 @@ C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcor
 C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.dll
 C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.pdb
 C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.genruntimeconfig.cache
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.Form2.resources

@@ -1,0 +1,15 @@
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.exe
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.deps.json
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.runtimeconfig.json
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.runtimeconfig.dev.json
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.dll
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\bin\Debug\netcoreapp3.1\TareaPreparatoria.pdb
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.vbproj.AssemblyReference.cache
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.Form1.resources
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.vbproj.GenerateResource.cache
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.AssemblyInfoInputs.cache
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.AssemblyInfo.vb
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.vbproj.CoreCompileInputs.cache
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.dll
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.pdb
+C:\Users\dguer\source\repos\TareaPreparatoria\TareaPreparatoria\obj\Debug\netcoreapp3.1\TareaPreparatoria.genruntimeconfig.cache
